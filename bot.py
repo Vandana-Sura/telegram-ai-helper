@@ -13,7 +13,7 @@ from urllib.parse import quote_plus  # Importing quote_plus for URL encoding
 from config import API_ID, API_HASH, BOT_TOKEN, GOOGLE_API_KEY, MONGO_URI, DB_NAME, GOOGLE_CSE_ID,GOOGLE_CLOUD_ID
 
 # Your MongoDB password
-password = "Vandana@123"
+password = "XXXXXXXXX"
 
 # URL-encode the password
 encoded_password = quote_plus(password)
